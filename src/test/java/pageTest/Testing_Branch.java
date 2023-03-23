@@ -5,5 +5,9 @@ public class Testing_Branch {
 		System.out.println("Hello");
 		
 	}
+	
+	public void id() {
+		System.out.println("Bye");
+	}
 
 }
